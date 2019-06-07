@@ -75,7 +75,6 @@ namespace Lesson3Ex   //Гаврилов Владимир
                 }
             }
             Console.WriteLine("нечетные числа - " + rezult + "  их сумма " + sum);
-
             #endregion
 
             Console.ReadKey();
